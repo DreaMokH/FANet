@@ -1,2 +1,2 @@
 # FANet
-A repo for 360-degree SOD
+The code is coming soon.
