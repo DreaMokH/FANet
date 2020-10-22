@@ -2,15 +2,15 @@
 
 The repository is for the paper "[FANet: Features Adaptation Network for 360$^{\circ}$ Omnidirectional Salient Object Detection](https://ieeexplore.ieee.org/document/9211754)", IEEE Signal Processing Letters, 2020.
 
-# Codes
+## Codes
 
 The code is coming soon.
 
-# Results
+## Results
 
 Our results can be downloaded at [BaiduYun CloudDrive](https://pan.baidu.com/s/1RfjZM73D472W6KO5n-8v1w)(Extraction Code: alab).
 
-# Citation
+## Citation
 
 If you find this repo useful, please cite the following papers:
 
@@ -26,7 +26,7 @@ If you find this repo useful, please cite the following papers:
   doi={10.1109/LSP.2020.3028192}}
 ```
 
-# Contact
+## Contact
 
 If you have any question, please contact [huangmengke@shu.edu.cn](huangmengke@shu.edu.cn).
 
