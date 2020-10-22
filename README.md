@@ -12,7 +12,7 @@ Our results can be downloaded at [BaiduYun CloudDrive](https://pan.baidu.com/s/1
 
 ## Citation
 
-If you find this repo useful, please cite the following papers:
+If you find this repo useful, please cite the following paper:
 
 ```bibtex
 @ARTICLE{Huang_2020_SPL,
