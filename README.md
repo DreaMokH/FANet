@@ -21,7 +21,6 @@ If you find this repo useful, please cite the following paper:
   title={FANet: Features Adaptation Network for 360$^{\circ}$ Omnidirectional Salient Object Detection}, 
   year={2020},
   volume={27},
-  number={},
   pages={1819-1823},
   doi={10.1109/LSP.2020.3028192}}
 ```
