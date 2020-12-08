@@ -31,5 +31,5 @@ If you find this repo useful, please cite the following paper:
 
 ## Contact
 
-If you have any question, please contact [huangmengke@shu.edu.cn](huangmengke@shu.edu.cn).
+Any questions, please contact [huangmengke@shu.edu.cn](huangmengke@shu.edu.cn).
 
