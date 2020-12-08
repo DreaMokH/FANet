@@ -1,0 +1,28 @@
+train_data: ./Dataset
+train_list : ./data/trainlist.txt
+test_data: ./Dataset
+val_list : ./data/vallist.txt
+test_list: ./data/360-SOD-te.txt
+checkpoints : ./checkpoints
+logs : ./Logs
+result : ./Results
+model_name : FANet
+testset_name: 360-SOD-te
+equi_input_width : 1024
+equi_input_height : 512
+cubemap_width : 256
+num_classes : 1
+batch_size : 4  
+lr : 2.0e-3 
+momentum : 0.9
+power : 0.9
+step_ratio : 0.8
+weight_decay : 0.0005
+epochs : 50
+summary_freq : 1
+test_mode: True
+train_mode: False
+use_gpu: True
+device_id : 0
+processes : 8
+model_id: 40
