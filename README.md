@@ -4,7 +4,11 @@ The repository is for the paper "[FANet: Features Adaptation Network for 360$^{\
 
 ## Codes
 
-The code is coming soon.
+* The code is trained and tested with Python3.7, PyTorch1.6 and CUDA10.1. The required packages include ```PyTorch```, ```torchvision```, ```Numpy```, ```SciPy```, ```PIL```, ```OpenCV``` and ```Tensorboard```.
+
+* The pretrained weight of backbone ResNet-50 can be downloaded from official PyTorch [link](https://download.pytorch.org/models/resnet50-19c8e357.pth). The datasets can be downloaded from [360-SOD](http://cvteam.net/projects/JSTSP20_DDS/DDS.html) and [F-360iSOD](https://github.com/PanoAsh/F-360iSOD).
+
+* Before training or testing the model, the paths in the config file([config.yaml](./config.yaml)) should be reseted.
 
 ## Results
 
