@@ -12,7 +12,7 @@ The repository is for the paper "[FANet: Features Adaptation Network for 360$^{\
 
 ## Results
 
-Our results can be downloaded at [BaiduYun CloudDrive](https://pan.baidu.com/s/1RfjZM73D472W6KO5n-8v1w)(Extraction Code: alab).
+Our results can be downloaded at [results](./SalMap.zip) or [BaiduYun CloudDrive](https://pan.baidu.com/s/1RfjZM73D472W6KO5n-8v1w)(Extraction Code: alab).
 
 ## Citation
 
