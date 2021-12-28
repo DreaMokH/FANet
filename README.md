@@ -8,7 +8,9 @@ The repository is for the paper "[FANet: Features Adaptation Network for 360$^{\
 
 * The pretrained weight of backbone ResNet-50 can be downloaded from official PyTorch [link](https://download.pytorch.org/models/resnet50-19c8e357.pth). The datasets can be downloaded from [360-SOD](http://cvteam.net/projects/JSTSP20_DDS/DDS.html) and [F-360iSOD](https://github.com/PanoAsh/F-360iSOD).
 
-* Before training or testing the model, the paths in the [config.yaml](./config.yaml) should be reset.
+* The paths in the [config.yaml](./config.yaml) should be reset when you need to train the model or predict the saliency maps.
+
+* The eval code can be found in http://dpfan.net/(http://dpfan.net/).
 
 ## Results
 
